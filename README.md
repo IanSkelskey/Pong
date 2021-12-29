@@ -6,7 +6,7 @@ I have tried to develop these games beyond the assignment requirements.
 Here are the features that I added since submission:
 -
 
-Compatibility:
+#Compatibility:
 Mac, PC (iOS and Android Coming Soon!)
 
-Download and Install Instructions:
+#Download and Install Instructions:
