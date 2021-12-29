@@ -11,7 +11,7 @@ Here are the features that I added since submission:
 - Training Mode
 
 # Compatibility:
-Mac, PC (iOS and Android Coming Soon!)
+Mac and PC (iOS and Android Coming Soon!)
 
 # Download and Install Instructions:
 
